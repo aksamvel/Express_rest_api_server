@@ -1,0 +1,176 @@
+[
+  {
+    "id": "trailer",
+    "label": "Anhänger",
+    "checklist": [
+      {
+        "text1": "Sauberkeit",
+        "text2": "Чистота"
+      },
+      {
+        "text1": "Bordwände",
+        "text2": "Борта"
+      },
+      {
+        "text1": "Reifen Beschädigung prüfen",
+        "text2": "Шины"
+      },
+      {
+        "text1": "Luft prüfen",
+        "text2": "Воздух"
+      },
+      {
+        "text1": "Profil Reifen in mm",
+        "text2": "Профиль шин"
+      },
+      {
+        "text1": "Bremsen",
+        "text2": "Тормоза"
+      },
+      {
+        "text1": "Antriebsketten",
+        "text2": "Гусеницы"
+      },
+      {
+        "text1": "Löffel und aufnahme prüfen",
+        "text2": "Ковш и крепление навесного"
+      },
+      {
+        "text1": "Schlüssel für schnellwechsler",
+        "text2": "Ключ для смены навесного"
+      },
+      {
+        "text1": "Lose Schrauben nachziehen",
+        "text2": "Проверить затяжку винтов"
+      },
+      {
+        "text1": "Hydraulik Zylinder",
+        "text2": "Гидравлические цилиндры"
+      },
+      {
+        "text1": "Schläuche",
+        "text2": "Шланги"
+      },
+      {
+        "text1": "Tankinhalt",
+        "text2": "Емкость бака"
+      },
+      {
+        "text1": "Öl stand",
+        "text2": "Масло"
+      },
+      {
+        "text1": "Flussigkeiten kontrolieren",
+        "text2": "Проверка тех.жидкостей"
+      },
+      {
+        "text1": "Fahrzeug schmieren",
+        "text2": "Смазка"
+      },
+      {
+        "text1": "Glas",
+        "text2": "Стекла"
+      },
+      {
+        "text1": "Beleuchtung",
+        "text2": "Освещение"
+      },
+      {
+        "text1": "Elektrik prüfen",
+        "text2": "Электрика"
+      },
+      {
+        "text1": "Funktion prüfen",
+        "text2": "Проверка функций"
+      },
+      {
+        "text1": "Kilometer (Stunden) Fotos",
+        "text2": "Пробег моточасы"
+      },
+      {
+        "text1": "Probefahrt",
+        "text2": "Пробный проезд"
+      },
+      {
+        "text1": "Schäden Fotos",
+        "text2": "Фото повреждений"
+      }
+    ]
+  },
+  {
+    "id": "loader",
+    "label": "Lader"
+  },
+  {
+    "id": "dumper",
+    "label": "Dumper"
+  },
+  {
+    "id": "digger",
+    "label": "Bagger"
+  },
+  {
+    "id": "trencher",
+    "label": "Grabenfräse"
+  },
+  {
+    "id": "hydraulic_tiller",
+    "label": "Hydraulische Bodenfräse"
+  },
+  {
+    "id": "vibrating_plate",
+    "label": "Rüttelplatte"
+  },
+  {
+    "id": "vakuum_lifter",
+    "label": "Vakuumheber"
+  },
+  {
+    "id": "demolition_hammer",
+    "label": "Stemmhammer"
+  },
+  {
+    "id": "cutter",
+    "label": "Trennschleifer"
+  },
+  {
+    "id": "angle_grinder",
+    "label": "Winkelschleifer (Trennschleifer)"
+  },
+  {
+    "id": "construction_dryer",
+    "label": "Bautrockner"
+  },
+  {
+    "id": "concrete_mixer",
+    "label": "Betonmischer"
+  },
+  {
+    "id": "construction_door",
+    "label": "Bautür"
+  },
+  {
+    "id": "chopper",
+    "label": "Häcksler"
+  },
+  {
+    "id": "hedge_trimmer",
+    "label": "Heckenschere"
+  },
+  {
+    "id": "work_platform",
+    "label": "Arbeitsbühne"
+  },
+  {
+    "id": "pallet_truck",
+    "label": "Hubwagen"
+  },
+  {
+    "id": "crane_scales",
+    "label": "Kranwaagen"
+  },
+  {
+    "id": "power_generator",
+    "label": "Stromgenerator"
+  }
+]
